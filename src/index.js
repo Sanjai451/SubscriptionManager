@@ -28,6 +28,13 @@ app.get('/api/health', (req, res) => {
     timestamp: new Date().toISOString(),
   });
 });
+app.get('/test', (req, res) => {
+  res.json({
+    success: true,
+    message: 'Server is running!',
+    timestamp: new Date().toISOString(),
+  });
+});
 
 // Routes
 app.use('/api/auth', authRoutes);
