@@ -41,6 +41,7 @@ The application is live and deployed on Render
 ### Deployment Details
 - Frontend is deployed as a **Static Site**
 - Backend is deployed as a **Web Service**
+- Database is deployed on **MongoDB Atlas**
 - Continuous deployment is enabled, so every push to the respective branch triggers an automatic redeployment.
 
 ### Production Setup
