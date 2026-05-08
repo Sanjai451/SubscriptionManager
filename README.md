@@ -1,6 +1,51 @@
-# 📊 Subscription Management Dashboard
+# Subscription Management Dashboard
 
 A full-stack SaaS admin dashboard built with **React.js**, **Node.js + Express**, and **MongoDB**. Users can subscribe to plans, view their active subscription, and manage their profile. Admins can monitor all subscriptions and view revenue stats.
+ 
+---
+
+## 📑 Table of Contents
+
+- [Live Deployment](#live-deployment)
+- [Project Structure](#️-project-structure)
+- [Features Implemented](#-features-implemented)
+  - [Backend Features](#backend)
+  - [Frontend Features](#frontend)
+  - [Bonus Features](#bonus-features)
+- [Setup & Running the Project](#-setup--running-the-project)
+  - [Prerequisites](#prerequisites)
+  - [Backend Setup](#-backend-setup)
+  - [Frontend Setup](#-frontend-setup)
+- [Demo Credentials](#-demo-credentials)
+- [API Endpoints Reference](#-api-endpoints-reference)
+  - [Auth APIs](#auth)
+  - [Plans APIs](#plans)
+  - [Subscriptions APIs](#subscriptions)
+- [Frontend Pages](#-frontend-pages)
+- [Database Schema](#️-database-schema)
+- [Tech Stack](#️-tech-stack)
+- [Troubleshooting](#-troubleshooting)
+- [Quick Start (Run Both)](#-running-both-simultaneously-quick-start)
+- [Why I’m a Strong Fit for This Role](#why-im-a-strong-fit-for-this-role)
+- [Candidate Information](#candidate-information)
+
+--- 
+
+## Live Deployment
+
+The application is live and deployed on Render
+
+### Access the Application
+- **Live App:** https://subscriptionmanager-2.onrender.com
+
+### Deployment Details
+- Frontend is deployed as a **Static Site**
+- Backend is deployed as a **Web Service**
+- Continuous deployment is enabled, so every push to the respective branch triggers an automatic redeployment.
+
+### Production Setup
+- Environment variables are securely managed in :contentReference[oaicite:2]{index=2}
+- Frontend and backend are maintained in a **monorepo** structure for streamlined deployment and version management
 
 ---
 
@@ -378,3 +423,66 @@ npm run dev
 ```
 
 Then open: **http://localhost:5173** 🚀
+
+---
+
+## Why I’m a Strong Fit for This Role
+
+This project reflects how I approach software engineering: not just completing assigned requirements, but delivering a production-ready product with scalability, usability, and maintainability in mind.
+
+### What I Delivered Beyond Core Requirements
+
+Along with the required features, I implemented additional enhancements to improve the product experience:
+
+✅ Simulated payment integration  
+✅ Dark / Light theme toggle  
+✅ Plan upgrade & downgrade workflow  
+✅ Full-stack deployment (Frontend + Backend)  
+✅ Production-ready environment configuration  
+✅ Responsive and user-friendly UI  
+
+### What This Demonstrates 
+
+- **Problem Solving Mindset**  
+
+- **Clean and Maintainable Code**  
+
+- **Production Thinking**  
+
+- **Adaptability & Learning Speed** 
+
+### My Engineering Approach
+
+I believe good software is built with:
+
+- Clean architecture  
+- Scalability in mind  
+- User-centric thinking  
+- Strong debugging ability  
+- Fast learning capability  
+- Ownership and accountability  
+
+This project represents the kind of contribution I aim to bring to a team: delivering reliable products, solving real problems, and continuously improving systems.
+
+---
+
+## Candidate Information
+
+**Name:** Sanjai Kumar R
+**Location:** Chennai
+
+### Contact
+
+* **Email:** [sanjaikumar451@gmail.com](mailto:sanjaikumar451@gmail.com)
+* **Phone:** +91 6369417210
+* **GitHub:** [https://github.com/Sanjai451](https://github.com/Sanjai451/)
+* **LinkedIn:** [https://www.linkedin.com/in/sanjaikumarr451](https://www.linkedin.com/in/sanjaikumarr451)
+* **Portfolio:** [https://sanjaikumarr.vercel.app](https://sanjaikumarr.vercel.app/)
+
+### Availability
+
+Open to full-time opportunities in Full Stack Development, Backend Development, and Software Engineering.
+
+### Final Note
+
+Thank you for reviewing this project.
